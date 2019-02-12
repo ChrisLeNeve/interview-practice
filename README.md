@@ -5,3 +5,5 @@ Here are my answers to some interview questions I've had in the past.
 - **merge-ordered-arrays**: 1) given 2 ordered arrays, merge them and keep them ordered; 2) given n ordered arrays, merge them and keep them ordered.
 - **numerals**: convert a decimal number to Roman numerals.
 - **initializers-poc**: a quick project to remind myself in what order initializers, static initializers and constructors are called (this one actually was never asked to me in an interview, but it could be)
+
+![alt text](https://ibb.co/h2YZrYB)
