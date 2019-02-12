@@ -6,4 +6,4 @@ Here are my answers to some interview questions I've had in the past.
 - **numerals**: convert a decimal number to Roman numerals.
 - **initializers-poc**: a quick project to remind myself in what order initializers, static initializers and constructors are called (this one actually was never asked to me in an interview, but it could be)
 
-![alt text](https://ibb.co/h2YZrYB)
+[![numerals.png](https://i.postimg.cc/NMH9JH8S/numerals.png)](https://postimg.cc/njnhMMPG)
