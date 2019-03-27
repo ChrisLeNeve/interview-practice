@@ -46,7 +46,7 @@ class Raptor extends Bird {
  */
 public class Hawk extends Raptor  {
     public static void main(String[] args) {
-        System.out.print("First line in Main (class extends parent)\n");
+        System.out.print("First line of code! in Main (class extends parent)\n");
         new Hawk();
         System.out.println("Last line in main\n");
     }
