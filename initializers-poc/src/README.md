@@ -1,4 +1,4 @@
-TL;DR:
+**TL;DR:**
 The order is as follows:
 1. For every parent from the top-level down:
 	- Static variables are set. At this point, non-static variables are not even available. (Variables assigned via a method and constants are treated exactly the same, in every case).
